@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title> <!-- This is the title of my page-->
+</head>
+
+<!--The body includes the main, title, div(s) and sections of my page-->
+<body>
+    <main>
+        <div>
+            <h1>Welcome To About Me Page!</h1> <!--h1 is the main heading of my page and can only be one-->
+        </div>
+        
+        <hr> <!--This adds a horizontal ruler to my text-->
+
+        <div>
+            <h2>My name is Janice Ainembabazi.</h2>
+            I am currently working at UPS and studying with Path2Tech to become a Fullstack Developer.
+        </div>
+
+        <br>
+
+        <section>
+            <strong>2 Truths and 1 Lie</strong> <!--I have a strong tag to make the letters bold-->
+
+            <br> <!--these add breaks to my page-->
+
+            <em>
+                Option 1: I play drums.
+            </em>
+            <!--em tag to add italics to my text-->
+
+            <br>
+
+            <em>
+                Option 2: I can break dancer.
+            </em>
+
+            <br>
+
+            <em>
+                Option 3: I have over 30 pairs of shoes.
+            </em>
+        </section>
+        <!--Sections to separate the content on the page-->
+
+        <br>
+
+        <section>
+            <aside>
+                I am <strong>Athletic!</strong>
+                <br>
+                My favorite food is <em>Ribeye Steak!</em>
+            </aside>
+        </section>
+    </main>
+    
+</body>
+</html>
